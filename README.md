@@ -2,6 +2,6 @@
 
 The repository of Arsel, A Really Small Esoteric Language, to know more about it, please visit [this](https://esolangs.org/wiki/Arsel)
 
-# Example
+# Examples
 
-See an example in `file.ars`.
+See the examples in `file.ars`.
